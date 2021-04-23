@@ -1,0 +1,421 @@
+div#wow{
+        background:url(../img/1.png);
+        background-size:cover;
+        min-height:100vh;
+        width:100%;
+    }
+    p.navtext{
+    	color: white;
+    }
+    p.bigtext{
+    	color:white;
+    	font-weight: bold;
+    	font-size:2.5em;
+    }
+    #bigtext{
+    	font-weight: bold;
+    	font-size:1.5em;
+    }
+    .btn{
+    	border-style: dashed;
+    	min-width:100px;
+    }
+    .row{
+    	position:relative;
+    	top:100px;
+    	width:100%;
+    	margin:0 auto;
+    }
+    body{
+    	overflow-x:hidden;
+    }
+
+    a.col-1{
+    	top:5px;
+    	margin-right:10px;
+    	margin-left: 10px;
+    }
+    div#fptext{
+    	text-align: center;
+    	margin-top:150px;
+        margin-left:auto;
+        margin-right: auto;
+    }
+    div.scwow{
+        width:80%;
+        min-height:100%;
+        background:white;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    div.scwow p.hedsc,div.scwow h2.card-title{
+        text-align: center;
+    }
+    h2.card-title{
+        margin-top:30px;
+    }
+    p.hedsc{
+        font-weight:bold;
+        font-size: 2em;
+        margin-top:70px;
+        margin-bottom:20px; 
+    }
+    div#scrow{
+        display: flex;
+        justify-content: space-around;
+    }
+    button#butsc{
+        width:100%;
+        padding-top:20px;
+        padding-bottom:20px;
+        background-color: #ffc107;
+        border:0;
+        color:white;
+        font-size:2em;
+        font-weight:700;
+    }
+    h2{
+        padding: 20px;
+    }
+    p.imp{
+        margin:20px;
+    }
+    div#cardsc{
+        box-sizing: border-box;
+        display:block;
+        width:20%;
+        height:60%;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        padding-bottom:25px;
+        margin-bottom: 500px;
+        text-align:center;
+        padding: 0px;
+    }
+    div.trwow{
+     background-image: url(../img/1.jpg);
+     background-size: cover;
+     min-height:100vh;
+     text-align:center;
+    }
+    div.indivtr{
+        max-width:45%;
+        text-align:center;
+        position:relative;
+        left:25%;
+        padding-top:9%;
+    }
+    p.trheader{
+        font-weight:800;
+        font-size:2.3em;
+        color: white;
+    }
+    p.trinfo{
+        font-weight:300;
+        font-size:1.4em;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    button#trbut{
+       padding-left: 30px;
+       padding-right:30px;
+    }
+    div.indivfr{
+        height:100%;
+        width:100%;
+        background-color: white;
+    }
+    div#frcards{
+        width:45%;
+        min-height:500px;
+        background-color:#efefef;
+        text-align:center;
+    }
+    p#hdfr{
+     font-weight:bold;
+     font-size:10em; 
+    }
+    p.frhdtw{
+        font-weight:700;
+        font-size:1.8em;
+        position:relative;
+        top:-30px;
+    }
+    p.frtext{
+        position:relative;
+        top:-30px;
+    }
+    div#frcont{
+        margin-left:30px;
+        width:90%;
+        display:flex;
+        justify-content:space-around;
+        margin-bottom:30px;
+        position: relative;
+        top:-120px;
+    }
+    button#bogbut{
+        text-align: center;
+        width:100%;
+        min-height:300px;
+        position:relative;
+        top: 0px;
+    }
+    p.bogbutxt{
+        font-weight:500;
+        font-size:2.5em;
+    }
+    div#fvtext{
+        float:left;
+        text-align: left;
+        max-height:30vh;
+        margin-right: 100px;
+    }
+    div.fvtextflex{
+        float:left;
+        text-align: left;
+        max-height:30vh;
+        margin-left: 100px;
+    }
+    div#fvrow{
+        width:100%;
+        margin-bottom:100px;
+        margin-top: 50px;
+    }
+    p.fvhead{
+        font-weight: bold;
+        font-size:1.7em;
+        margin-bottom: 10px;
+    }
+    div#roz{
+        margin-bottom: 300px;
+    }
+    p.fvsimtext{
+        margin-bottom: 10px;
+    }
+    p#footheader{
+        font-size: 3em;
+        font-weight: bold;
+        color:white;
+        float:left;
+        margin-left:150px;
+
+    }
+    div.footer{
+        width:100vw;
+        box-sizing: border-box;
+    }
+    div.footbg{
+        background-image: url(../img/3.jpg);
+        background-size: cover;
+        min-width:100%;
+        height:40vh;        
+    }
+    button#footbut{
+       padding-left: 40px;
+       padding-right:40px;
+        min-width:15%;
+        height:6vh;
+        margin-top:30px;
+        margin-left:150px;
+    }
+    div#orlast{
+        text-align: center;
+        width:100%;
+        min-height: 5vh;
+        margin-bottom:0px;
+    }
+    .footer-clean {
+  padding:50px 0;
+  background-color:#fff;
+  color:#4b4c4d;
+  margin-bottom: 100px;
+}
+
+.footer-clean h3 {
+  margin-top:0;
+  margin-bottom:12px;
+  font-weight:bold;
+  font-size:16px;
+}
+
+.footer-clean ul {
+  padding:0;
+  list-style:none;
+  line-height:1.6;
+  font-size:14px;
+  margin-bottom:0;
+}
+
+.footer-clean ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-clean ul a:hover {
+  opacity:1;
+}
+
+.footer-clean .item.social {
+  text-align:right;
+}
+
+@media (max-width:767px) {
+  .footer-clean .item {
+    text-align:center;
+    padding-bottom:20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-clean .item.social {
+    text-align:center;
+  }
+}
+
+.footer-clean .item.social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin-left:10px;
+  margin-top:22px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-clean .item.social > a:hover {
+  opacity:0.9;
+}
+
+@media (max-width:991px) {
+  .footer-clean .item.social > a {
+    margin-top:40px;
+  }
+}
+
+@media (max-width:767px) {
+  .footer-clean .item.social > a {
+    margin-top:10px;
+  }
+}
+
+.footer-clean .copyright {
+  margin-top:14px;
+  margin-bottom:0;
+  font-size:13px;
+  opacity:0.6;
+}
+
+    @media(max-width:1200px) and (min-width:993px){
+      p#footheader{
+        font-size:2em;
+        float:none;
+      }
+      div#fvtext{
+            float:none;
+            margin-bottom: 100px;
+        }
+        div.fvtextflex{
+            float: none;
+            margin-top: 100px;
+            margin-left: 0;
+            margin-bottom: 100px;
+        }
+        div#fotrow{
+        position:relative;
+        top:-30px;
+      }
+    }
+    @media(max-width:992px) and (min-width:769px){
+        p#footheader{
+            font-size:2em;
+        float:none;
+      }
+      div#fotrow{
+        position:relative;
+        top:23px;
+      }
+        div#fvtext{
+            float:none;
+            margin-bottom: 100px;
+        }
+        div.fvtextflex{
+            float: none;
+            margin-top: 100px;
+            margin-left: 0;
+            margin-bottom: 100px;
+        }
+    	div#fptext{
+    		margin-top:30px;
+    }
+    div#row{
+        margin-left:30px;
+    }
+    p#hdfr{
+     font-weight:bold;
+     font-size:4em; 
+    }
+    div#frcont{
+        top:50px;
+    }
+    button#bogbut{
+        margin-top:50px;
+    }
+    div#cardsc{
+        margin-bottom:100px;
+    }
+    }
+    @media(max-width:768px){
+        .footer-clean{
+            margin-top: 200px;
+        }
+        p#footheader{
+            font-size:1.5em;
+        float:none;
+      }
+        div#fvtext{
+            float:none;
+            margin-bottom: 250px;
+        }
+        div.fvtextflex{
+            float: none;
+            margin-top: 150px;
+            margin-left: 0;
+            margin-bottom: 50px;
+        }
+    div#cardsc{
+        margin-bottom:200px;
+    }
+    div#wow{
+        height:115vh;
+    }
+    div#fptext{
+    		margin-top:20px;
+    		margin-left:30px;
+    }
+    div#cardsc{
+        margin-top:10px;
+    }
+    div#row{
+        margin-left:20px;
+    }
+    p#hdfr{
+     font-weight:bold;
+     font-size:4em;
+    }
+    p.hedsc{
+        font-size: 1.5em;
+    }
+    div#frcont{
+        top:120px;
+    }
+    button#bogbut{
+        margin-top:120px;
+    }
+    }
